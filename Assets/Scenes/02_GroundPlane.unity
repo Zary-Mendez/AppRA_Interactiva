@@ -928,6 +928,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 203556506691791131, guid: 043ff4598a894904fb4a30e106907d22, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 280
+      objectReference: {fileID: 0}
+    - target: {fileID: 203556506691791131, guid: 043ff4598a894904fb4a30e106907d22, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: 2019891983289077196, guid: 043ff4598a894904fb4a30e106907d22, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3585610835824199029, guid: 043ff4598a894904fb4a30e106907d22, type: 3}
       propertyPath: m_Pivot.x
       value: 0
