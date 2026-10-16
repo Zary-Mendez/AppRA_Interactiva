@@ -296,7 +296,7 @@ MonoBehaviour:
   m_Script: {fileID: 996249435, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.MidAirPositionerBehaviour
-  DistanceToCamera: 1.5
+  DistanceToCamera: 1
   MidAirIndicator: {fileID: 1109022337124679420, guid: fdfbcecd2cdcd43f197137783a653f91, type: 3}
   OnAnchorPositionConfirmed:
     m_PersistentCalls:
@@ -563,15 +563,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 70cba64bef744df4e913dfcaf683874b, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.08
+      value: 0.19999999
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 70cba64bef744df4e913dfcaf683874b, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.08
+      value: 0.19999999
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 70cba64bef744df4e913dfcaf683874b, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.08
+      value: 0.19999999
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 70cba64bef744df4e913dfcaf683874b, type: 3}
       propertyPath: m_LocalPosition.x
