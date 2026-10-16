@@ -197,14 +197,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Shield_01_a
+  mTrackableName: Escudo redondo low-poly-6
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: c324078f7665ec94296b76881b729f1f, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: e69910fdf488cba42ba9ac8fdedf44c5, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 23696586}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Shield_01_a
+  mTargetName: Escudo redondo low-poly-6
   mDatasetName: 
   mCastedBehaviour: {fileID: 23696586}
   mMeshFilter: {fileID: 0}
@@ -459,14 +459,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Quiver_01_a
+  mTrackableName: Carcaj rojo con flechas-5
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.19999997
   mHeight: 0.19999997
-  mRuntimeTexture: {fileID: 2800000, guid: 5a898b84a6d2d1f469c8ee0e6024e2bf, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 61f90776bb6a2144fbf5186de3dce41d, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -501,7 +501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 148048128}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Quiver_01_a
+  mTargetName: Carcaj rojo con flechas-5
   mDatasetName: 
   mCastedBehaviour: {fileID: 148048128}
   mMeshFilter: {fileID: 0}
@@ -1354,14 +1354,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Shield_19_a
+  mTrackableName: Escudo angular rojo y verde-7
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 37e0e69ea5a48184c94de3101f4bfaad, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: a6466f5ec5a14bf4191606cf0d63b56a, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -1396,7 +1396,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 414771275}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Shield_19_a
+  mTargetName: Escudo angular rojo y verde-7
   mDatasetName: 
   mCastedBehaviour: {fileID: 414771275}
   mMeshFilter: {fileID: 0}
@@ -1596,14 +1596,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: "Br\xFAjula central y arsenal low-poly"
+  mTrackableName: Diez armas medievales low-poly
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: f7194c09f3a2fd64c8a9214bf909c82c, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: cbdc63c3daff3f64ba7f61440f76f95d, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -1728,7 +1728,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 667698231}
   mHiddenRoot: {fileID: 0}
-  mTargetName: "Br\xFAjula central y arsenal low-poly"
+  mTargetName: Diez armas medievales low-poly
   mDatasetName: 
   mCastedBehaviour: {fileID: 667698231}
   mMeshFilter: {fileID: 0}
@@ -1811,14 +1811,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Pike_01_a
+  mTrackableName: Pica oscura sobre fondo menta-3
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 75f720d511045d54abc48e0022f8864f, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: b4787ee69e5a925449bae3627d9ea9e9, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -1853,7 +1853,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 787240820}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Pike_01_a
+  mTargetName: Pica oscura sobre fondo menta-3
   mDatasetName: 
   mCastedBehaviour: {fileID: 787240820}
   mMeshFilter: {fileID: 0}
@@ -1936,14 +1936,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Longsword_01_a
+  mTrackableName: Espada larga gris sobre azul claro-2
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: c28d533b316f6f840ba25283065ca02b, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: e9bb3031ac662104f97f974b04705ea0, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -1978,7 +1978,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 813363227}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Longsword_01_a
+  mTargetName: Espada larga gris sobre azul claro-2
   mDatasetName: 
   mCastedBehaviour: {fileID: 813363227}
   mMeshFilter: {fileID: 0}
@@ -2431,14 +2431,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Sword_01_a
+  mTrackableName: Espada gris low-poly sobre fondo aqua-9
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: f9e4de16c879af149b0292bbea1ce808, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: da42074d97f373b47abebdbafc09dc06, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -2473,7 +2473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 1093724555}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Sword_01_a
+  mTargetName: Espada gris low-poly sobre fondo aqua-9
   mDatasetName: 
   mCastedBehaviour: {fileID: 1093724555}
   mMeshFilter: {fileID: 0}
@@ -2634,14 +2634,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Bow_01_a
+  mTrackableName: Arco negro con detalles rojos-1
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: f8960d5b7ba69f542bf7964a1d28131b, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 02c9dd0cd4e5d8848bbf2a719ae5a974, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -2676,7 +2676,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 1153997005}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Bow_01_a
+  mTargetName: Arco negro con detalles rojos-1
   mDatasetName: 
   mCastedBehaviour: {fileID: 1153997005}
   mMeshFilter: {fileID: 0}
@@ -3353,14 +3353,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_ShortWarAxe_01_a
+  mTrackableName: Hacha low-poly gris con mango verde-10
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: b83c69de1cd2259409919123c4d0ebfc, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 46490636fa4d9cc4b85bef5c2ee22ce6, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -3395,7 +3395,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 1582091761}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_ShortWarAxe_01_a
+  mTargetName: Hacha low-poly gris con mango verde-10
   mDatasetName: 
   mCastedBehaviour: {fileID: 1582091761}
   mMeshFilter: {fileID: 0}
@@ -3900,14 +3900,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Shield_06_a
+  mTrackableName: Escudo ovalado low-poly en lavanda-8
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 9369fb23fe31dac44a5f6be031d7bbfa, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 3c8bd852188eecd4cb82f536637c294e, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -3942,7 +3942,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 1709608914}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Shield_06_a
+  mTargetName: Escudo ovalado low-poly en lavanda-8
   mDatasetName: 
   mCastedBehaviour: {fileID: 1709608914}
   mMeshFilter: {fileID: 0}
@@ -4025,14 +4025,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Target_PT_Mace_01_a
+  mTrackableName: Maza poligonal con mango verde-4
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 955bc2039c7ec5644b2581588ec66f5c, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 80153a115f7b06d4b9076c7f1a6ef85d, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -4067,7 +4067,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 1758891853}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Target_PT_Mace_01_a
+  mTargetName: Maza poligonal con mango verde-4
   mDatasetName: 
   mCastedBehaviour: {fileID: 1758891853}
   mMeshFilter: {fileID: 0}
