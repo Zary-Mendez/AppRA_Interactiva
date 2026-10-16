@@ -1,25 +1,12 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuManager : MonoBehaviour
+public class VolverMenu : MonoBehaviour
 {
-    public void AbrirImageTarget()
-    {
-        SceneManager.LoadScene("01_ImageTargets");
-    }
+    [SerializeField] private string nombreEscenaMenu = "00_Menu";
 
-    public void AbrirGroundPlane()
+    public void IrAlMenu()
     {
-        SceneManager.LoadScene("02_GroundPlane");
-    }
-
-    public void AbrirMidAir()
-    {
-        SceneManager.LoadScene("03_MidAir");
-    }
-
-    public void Salir()
-    {
-        Application.Quit();
+        SceneManager.LoadScene(nombreEscenaMenu);
     }
 }
