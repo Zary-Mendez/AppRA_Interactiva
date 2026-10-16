@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class VolverMenu : MonoBehaviour
+public class MenuManager : MonoBehaviour
 {
     [SerializeField] private string nombreEscenaMenu = "00_Menu";
 
